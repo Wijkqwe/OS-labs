@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/data/0/0/test/job_scheduling/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
