@@ -1,0 +1,3 @@
+/share/Share/page_table_allocation/build/CMakeFiles/PageTable_Parition.dir
+/share/Share/page_table_allocation/build/CMakeFiles/edit_cache.dir
+/share/Share/page_table_allocation/build/CMakeFiles/rebuild_cache.dir

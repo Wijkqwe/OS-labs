@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/share/Share/page_table_allocation/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
